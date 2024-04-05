@@ -11,6 +11,7 @@ function HomePage() {
         <h1>Welcome to Next.js!</h1>
         <Link href="posts/firstPost">First Post</Link>
       </div>
+      <img src="/logo.png" alt="logo" />
     </>
   );
 }
